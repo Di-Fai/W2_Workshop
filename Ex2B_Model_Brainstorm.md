@@ -1,4 +1,3 @@
-</> Markdown
 # Requirements and Conceptual Model
 
 
@@ -30,8 +29,6 @@ Category,/           Specific Info/
 -Payment:            Amount, date paid, which walk, paid or not
 
 
-
-</> Markdown
 # Logical Model
 
 1. Clients — the dog owners
@@ -46,8 +43,8 @@ Column              Data Type
 -first_name:          VARCHAR
 -last_name :          VARCHAR
 -phone :              VARCHAR
--email :              VARCHAR
--address :            VARCHAR
+-email:              VARCHAR
+-address:            VARCHAR
 
 DOGS table:
 Column             Data Type
@@ -79,7 +76,7 @@ Clients → Dogs: One-to-many (one client can have multiple dogs)
 Dogs → Walks: One-to-many (one dog can have many walks)
 
 For many-to-many relationships:
-Can one walk have many dogs, AND if one dog appear in many walks?
+Can one walk have many dogs? AND if one dog can be taken on many walks?
 If Lana walks multiple dogs at once → yes, that's many-to-many between Dogs and Walks. In that case, we need a resolving table called Dog_Walks:
 
 Column                  Data Type
