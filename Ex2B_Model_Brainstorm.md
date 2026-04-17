@@ -23,8 +23,8 @@ The walks she schedules
 Payments she receives
 
 For each category, what specific info matters?
-Category,           Specific Info  
-Clients             Name, phone, email,address
-Dogs                Dog name, breed, age, owner               
-Walks               Date, time, duration, which dog, which walker
-Payments            Amount, date paid, which walk, paid or not
+Category,/           Specific Info/  
+-Client's:             Name, phone, email, address
+-Dogs:                Dog name, breed, age, owner               
+-Walks:               Date, time, duration, which dog, which walker
+-Payment:            Amount, date paid, which walk, paid or not
