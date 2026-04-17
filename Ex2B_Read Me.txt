@@ -1,0 +1,7 @@
+For Lana’s dog-walking business, it is important to identify and organize the key types of data needed to run the business efficiently. The main categories of data include customer information, dog information, booking details, payment records, and potentially walker or employee information as the business grows.
+
+Customer data should include the owner’s name, phone number, email, address, and an emergency contact. Dog data should include the dog’s name, breed, age, weight, temperament, medical needs, allergies, veterinarian information, and walking preferences. Booking details should include the date, time, duration, location, assigned walker, and any special instructions. Payment records should track the service provided, amount, payment date, payment method, and payment status. If the business expands, it would also be useful to track walker information such as names, availability, and schedules.
+
+To coordinate as a group, we would use asynchronous communication to share updates and ideas outside of class time. During lab sessions, we would meet to discuss our ideas, make decisions, and divide responsibilities. We would also work around any scheduling conflicts to ensure everyone can contribute.
+
+The overall goal is to identify the necessary data, organize it into clear categories, and design a system that helps Lana manage her business effectively and make informed decisions.
